@@ -2,7 +2,7 @@ Stack - Python
 
 problem statement: Create user account, upload music file and convert it into video showing basic visuals and able to download it.
 
-
+product name: Music Spectra
 
 team id: BFH/recuy7id2tze64AWK/2021
 
