@@ -1,11 +1,5 @@
 
 
-Philips George C : phi1ipz
-Chithralekha M P: chithralekhamp
-Austin S : austinshaji712
-
-thank you
-
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Music Spectra
  This product is created for converting audio to video adding some visuals according to the frequency and pitch of audio. also create accounts to store the data for future
